@@ -2,7 +2,7 @@
 
 > "According to Smith and Watson, in the past two results in an opposition, which are an idea of the area and dispetition and to use the assignment of sethe, and states that human beloved between chinese theme to start free who charged make more period and it is ambiguously with studies of a just than the first disarmability of each of the people that receives we focused on the history of the countries to show. We both on their rather than our structure of language and an united step successful problems in the empirical companies of the time of the other policy and the solutions of points that the by prone for exactly so the present, seemingly that the american community, the classes of its assemble further is an attacking in the assessments of the text, on the time that is a rule of the groups of the african meaning of the scale one of the body. And as most previously toothbrush is several energy. And the structure of color seems to be keeped the understandings of attacked contrasts and authors are different to important movement."
 
-Example of generated paragraphs
+- Example of generated paragraphs
 
 The aim of this project was to collect as many student written essays as possible and to train a funky text generation model on them. After posting on Facebook, and asking fellow students directly to submit their works, I successfully collected 200 essays each having 800 words on average and 2 million characters in total. To train LSTM models, 100k is the minimum and 1 million recommended, so my data was sufficiently enough.
 
