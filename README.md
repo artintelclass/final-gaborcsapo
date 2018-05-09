@@ -8,21 +8,21 @@ The final output of the system was published in [the NYUAD student magazine](htt
 
 ## Components and prereqs
 * Preprocessing
- - Jupyter notebook to convert and clean text from .doc and .pdf files
+    - Jupyter notebook to convert and clean text from .doc and .pdf files
 * Bidirectional LSTM experiment
- - inspired by [campdav's Text-Generation-using-Bidirectional-LSTM-and-Doc2Vec-models](https://github.com/campdav/Text-Generation-using-Bidirectional-LSTM-and-Doc2Vec-models) project with changes to preprocessing and the model architeture
- - Keras with Tensorflow backend
- - Spacy and NLTK for preprocessing and tokenization
- - Gensim Doc2Vec
+    - inspired by [campdav's Text-Generation-using-Bidirectional-LSTM-and-Doc2Vec-models](https://github.com/campdav/Text-Generation-using-Bidirectional-LSTM-and-Doc2Vec-models) project with changes to preprocessing and the model architeture
+    - Keras with Tensorflow backend
+    - Spacy and NLTK for preprocessing and tokenization
+    - Gensim Doc2Vec
 * LSTM
- - based on [mattdangerw's keras-text-generation](https://github.com/mattdangerw/keras-text-generation) project with changes to some of the text preprocessing
- - Keras with Tensorflow
- - Colorama
- - NLTK
+    - based on [mattdangerw's keras-text-generation](https://github.com/mattdangerw/keras-text-generation) project with changes to some of the text preprocessing
+    - Keras with Tensorflow
+    - Colorama
+    - NLTK
 * Web visualization of essays
- - website typing out live some of the generated essays
- - Typeit.js
- - Bootstrap 3
+    - website typing out live some of the generated essays
+    - Typeit.js
+    - Bootstrap 3
 
 
 ## Getting started
